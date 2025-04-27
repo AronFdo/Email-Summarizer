@@ -33,3 +33,11 @@ It automatically:
 
 ## 📦 Project Structure
 
+📁 Email-Summarizer/ │ 
+├── agent_controller.py # Defines the EmailSummarizerAgent 
+├── email_client.py # Handles Gmail API integration 
+├── main.py # Entry point to run the agent 
+├── .env # Stores API keys and credentials (not committed) 
+├── README.md # Project documentation 
+├── requirements.txt # Python dependencies 
+└── venv/ # Python virtual environment (ignored)
